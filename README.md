@@ -1,6 +1,8 @@
 ### Привет!👋 Я Максим, ищу работу фронтенд-разработчиком.
 
 Мое - <a href='https://hh.ru/resume/7a6f7460ff0c86535a0039ed1f4b7846794644'>резюме<a/>
+
+Мои основные технологии - React, JavaScript / TypeScript, Redux, Next, Nodejs, HTML, CSS
 <!--
 **Wecpo/Wecpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
