@@ -1,6 +1,6 @@
 <h1>Hi!👋 I'm frontend-developer.</h1>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+frontend+developer+(:](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+frontend+developer+`(+:+)`)](https://git.io/typing-svg)
 
 
 My - <a href='https://hh.ru/resume/7a6f7460ff0c86535a0039ed1f4b7846794644'>resume<a/>
