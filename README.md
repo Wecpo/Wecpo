@@ -5,7 +5,7 @@
 
 My - <a href='https://hh.ru/resume/7a6f7460ff0c86535a0039ed1f4b7846794644'>resume<a/>
 <hr/>
-Main stack - React, JavaScript / TypeScript, Redux / RTK, NextJS, NodeJS, HTML, CSS, SASS
+<h2>Main stack - React, JavaScript / TypeScript, Redux / RTK, NextJS, NodeJS, HTML, CSS, SASS</h1>
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
