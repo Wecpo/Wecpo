@@ -3,6 +3,8 @@
 My - <a href='https://hh.ru/resume/7a6f7460ff0c86535a0039ed1f4b7846794644'>resume<a/>
 
 Main stack - React, JavaScript / TypeScript, Redux / RTK, NextJS, NodeJS, HTML, CSS, SASS
+
+https://www.codewars.com/users/Wecpo/badges/large
 <!--
 **Wecpo/Wecpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
