@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&duration=3500&pause=2500&color=1AF7ED&vCenter=true&random=false&width=435&lines=Hello+there!)](https://git.io/typing-svg)
+FE Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=31&duration=3500&pause=2500&color=1AF7ED&vCenter=true&random=false&width=435&lines=I'm+Front-End+developer+)](https://git.io/typing-svg)
-
-My - <a href='https://hh.ru/resume/7a6f7460ff0c86535a0039ed1f4b7846794644'>resume<a/>
+<a href='https://hh.ru/resume/7a6f7460ff0c86535a0039ed1f4b7846794644'>Resume HH<a/>
 <hr/>
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
