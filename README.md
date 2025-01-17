@@ -1,6 +1,6 @@
 FE Developer
 
-<a href='https://hh.ru/resume/7a6f7460ff0c86535a0039ed1f4b7846794644'>Resume HH<a/>
+<a href='https://hh.ru/resume/b32e241fff0e40bed70039ed1f72764f37476f'>Resume HH<a/>
 <hr/>
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
